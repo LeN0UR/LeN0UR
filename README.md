@@ -1,6 +1,7 @@
-<h1 align="center">👋 Hello there, I'm Abdirahman Nour</h1>
+<h1 align="center"> Hello there, I'm Abdirahman Nour</h1>
+
 <p align="center">
-  <i>“General Kenobi…” — Obi-Wan Kenobi ✨</i>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="Obi-Wan Kenobi saying Hello There">
 </p>
 
 <p align="center">
@@ -37,40 +38,4 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
-
----
-
-## 🧭 Featured Repositories
-
-| Category | Repository | Description |
-|-----------|-------------|-------------|
-| ⚙️ DevOps | [The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary) | My main DevOps learning hub — Linux, Docker, CI/CD |
-| 🐧 Linux | [Linux_Journey](https://github.com/LeN0UR/Linux_Journey) | Core Linux commands, Bash scripting, and system labs |
-| 🐳 Docker | [Docker_Journey](https://github.com/LeN0UR/Docker_Journey) | Containerization and multi-service Docker setups |
-
----
-
-## 📫 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ab-nour/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUREMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicon
