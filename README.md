@@ -1,8 +1,8 @@
-<h1 align="center"> Welcome! My name is Abdirahman</h1>
+<h1 align="center">👋 Welcome! My name is Abdirahman</h1>
 
 <p align="center">
-  <!-- Host this GIF inside your repo for autoplay -->
-  <img src="https://github.com/LeN0UR/LeN0UR/blob/main/assets/hello-there.gif?raw=true" width="250" alt="Obi-Wan Kenobi Hello There">
+  <!-- Autoplaying GIF hosted directly from your repo -->
+  <img src="https://raw.githubusercontent.com/LeN0UR/LeN0UR/main/hello%20there.gif" width="250" alt="Obi-Wan Kenobi Hello There">
 </p>
 
 <p align="center">
@@ -68,38 +68,20 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **
 
 ## 📊 GitHub Stats
 
-<!-- Overall Stats + Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&theme=github_dark&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats"/>
 </p>
 
-<!-- Streaks -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LeN0UR&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak"/>
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeN0UR&theme=onedark&row=1&no-frame=true&margin-w=10" alt="GitHub Profile Trophies"/>
-</p>
-
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeN0UR&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 > These cards fetch live data from GitHub and update automatically.
-
----
-
-## 🧭 Featured Repositories
-
-| Category | Repository | Description |
-|-----------|-------------|-------------|
-| ⚙️ DevOps | [The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary) | My main DevOps learning hub — Linux, Docker, CI/CD |
-| 🐧 Linux | [Linux_Journey](https://github.com/LeN0UR/Linux_Journey) | Core Linux commands, Bash scripting, and system labs |
-| 🐳 Docker | [Docker_Journey](https://github.com/LeN0UR/Docker_Journey) | Containerization and multi-service Docker setups |
 
 ---
 
@@ -113,5 +95,4 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 
