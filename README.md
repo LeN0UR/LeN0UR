@@ -16,23 +16,23 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **DevOps Engineer** passionate about automation, Linux systems, and cloud infrastructure.  
-I use this space to document my learning journey — from mastering Bash and networking to building CI/CD pipelines and containerized applications.  
-Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **Kubernetes**, and **Terraform**, aiming to automate infrastructure deployment at scale.  
+I am an individual that is sincerely passionate about personal improvement even if it's 1% a day. As a **DevOps Engineer** I aim to automate workflows and build resilient infrastructure that keeps systems efficient, reliable, scalable and most importantly **secure**. In general I enjoy any challenges that require intense problem solving and collaborating with people to make things happen 🦾
 
-> _"Every container, script, and commit is a small step toward mastering reliability."_ 🚀
+I use this space to document my learning journey, from mastering linux and networking fundamentals to building CI/CD pipelines and containerized applications.  
+Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **Kubernetes**, and **Terraform**, aiming to automate infrastructure deployment at scale.  
 
 ---
 
 ## 📂 Current Focus
 
-- 🔭 Working on: **[The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)** — documenting my DevOps journey  
-- 🌱 Upskilling in **AWS ECS**, **Terraform**, and **CI/CD pipeline automation**  
-- 🧠 Exploring **Kubernetes**, **cloud networking**, and infrastructure-as-code best practices  
+- 🔭 Working on: **[The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)**, documenting my journey and building projects
+- - 🌱 Upskilling in **AWS ECS**, **Terraform**, and **CI/CD pipeline automation**  
+- 🧠 Check out all my public repositories [here](https://github.com/LeN0UR?tab=repositories).
+  
 
 ---
 
-## 🧰 Languages & Tools
+## 💻 My tech stack
 
 <p align="left">
   <!-- Core -->
