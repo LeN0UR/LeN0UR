@@ -1,8 +1,8 @@
 <h1 align="center">👋 Welcome! My name is Abdirahman</h1>
 
 <p align="center">
-  <!-- Autoplaying GIF hosted directly from your repo -->
-  <img src="https://raw.githubusercontent.com/LeN0UR/LeN0UR/main/hello%20there.gif" width="250" alt="Obi-Wan Kenobi Hello There">
+  <!-- True autoplaying Obi-Wan GIF -->
+  <img src="https://media.tenor.com/UnFx-k_lSckAAAAM/hello-there.gif" width="250" alt="Obi-Wan Kenobi Hello There">
 </p>
 
 <p align="center">
@@ -47,52 +47,5 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes"/>
 
   <!-- Cloud & Infrastructure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform"/>
-
-  <!-- CI/CD & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab"/>
-
-  <!-- Networking -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache"/>
-
-  <!-- Programming & Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&theme=github_dark&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeN0UR&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeN0UR&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
-> These cards fetch live data from GitHub and update automatically.
-
----
-
-## 📫 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ab-nour/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUREMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.
 
