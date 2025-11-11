@@ -26,7 +26,7 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **
 ## 📂 Current Focus
 
 - 🔭 Working on: **[The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)**, documenting my journey and building projects
-- - 🌱 Upskilling in **AWS ECS**, **Terraform**, and **CI/CD pipeline automation**  
+- 🌱 Upskilling in **AWS ECS**, **Terraform**, and **CI/CD pipeline automation**  
 - 🧠 Check out all my public repositories [here](https://github.com/LeN0UR?tab=repositories).
   
 
