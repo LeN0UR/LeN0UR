@@ -1,7 +1,8 @@
 <h1 align="center"> Welcome! My name is Abdirahman</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3ce51d07-ab16-495c-a82c-1997fb18b396" width="250" alt="Obi-Wan Kenobi Hello There">
+  <!-- Host this GIF inside your repo for autoplay -->
+  <img src="https://github.com/LeN0UR/LeN0UR/blob/main/assets/hello-there.gif?raw=true" width="250" alt="Obi-Wan Kenobi Hello There">
 </p>
 
 <p align="center">
@@ -16,23 +17,24 @@
 
 ## 👨‍💻 About Me
 
-I am an individual that is sincerely passionate about personal improvement even if it's 1% a day. As a **DevOps Engineer** I aim to automate workflows and build resilient infrastructure that keeps systems efficient, reliable, scalable and most importantly **secure**. In general I enjoy any challenges that require intense problem solving and collaborating with people to make things happen 🦾
+I am an individual that is sincerely passionate about personal improvement even if it's 1% a day.  
+As a **DevOps Engineer**, I aim to automate workflows and build resilient infrastructure that keeps systems efficient, reliable, scalable, and most importantly **secure**.  
+In general, I enjoy challenges that require intense problem-solving and collaboration to make things happen 🦾  
 
-I use this space to document my learning journey, from mastering linux and networking fundamentals to building CI/CD pipelines and containerized applications.  
+I use this space to document my learning journey — from mastering Linux and networking fundamentals to building CI/CD pipelines and containerized applications.  
 Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **Kubernetes**, and **Terraform**, aiming to automate infrastructure deployment at scale.  
 
 ---
 
 ## 📂 Current Focus
 
-- 🔭 Working on: **[The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)**, documenting my journey and building projects
+- 🔭 Working on: **[The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)** — documenting my journey and building projects  
 - 🌱 Upskilling in **AWS ECS**, **Terraform**, and **CI/CD pipeline automation**  
-- 🧠 Check out all my public repositories [here](https://github.com/LeN0UR?tab=repositories).
-  
+- 🧠 Check out all my public repositories [here](https://github.com/LeN0UR?tab=repositories)  
 
 ---
 
-## 💻 My tech stack
+## 💻 My Tech Stack
 
 <p align="left">
   <!-- Core -->
@@ -66,10 +68,28 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **
 
 ## 📊 GitHub Stats
 
+<!-- Overall Stats + Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages"/>
 </p>
+
+<!-- Streaks -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LeN0UR&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LeN0UR&theme=onedark&row=1&no-frame=true&margin-w=10" alt="GitHub Profile Trophies"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeN0UR&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+> These cards fetch live data from GitHub and update automatically.
 
 ---
 
@@ -93,4 +113,5 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
