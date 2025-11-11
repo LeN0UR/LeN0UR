@@ -1,8 +1,10 @@
 <h1 align="center">👋 Welcome! My name is Abdirahman</h1>
 
 <p align="center">
-  <!-- True autoplaying Obi-Wan GIF -->
-  <img src="https://media.tenor.com/UnFx-k_lSckAAAAM/hello-there.gif" width="250" alt="Obi-Wan Kenobi Hello There">
+  <!-- OPTIONAL GIF:
+  Host the GIF in your repo and use the RAW link for autoplay:
+  <img src="https://raw.githubusercontent.com/LeN0UR/LeN0UR/main/assets/obiwan-hello-there.gif" width="250" alt="Obi-Wan Kenobi Hello There">
+  -->
 </p>
 
 <p align="center">
@@ -19,10 +21,10 @@
 
 I am an individual that is sincerely passionate about personal improvement even if it's 1% a day.  
 As a **DevOps Engineer**, I aim to automate workflows and build resilient infrastructure that keeps systems efficient, reliable, scalable, and most importantly **secure**.  
-In general, I enjoy challenges that require intense problem-solving and collaboration to make things happen 🦾  
+I enjoy challenges that require intense problem-solving and collaboration 🦾
 
 I use this space to document my learning journey — from mastering Linux and networking fundamentals to building CI/CD pipelines and containerized applications.  
-Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **Kubernetes**, and **Terraform**, aiming to automate infrastructure deployment at scale.  
+Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, and **Terraform**, aiming to automate infrastructure deployment at scale.  
 
 ---
 
@@ -38,14 +40,58 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, **
 
 <p align="left">
   <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/bash/bash-original.svg" height="40" alt="bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linux/linux-original.svg" height="40" alt="linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/git/git-original.svg" height="40" alt="git"/>
 
-  <!-- Containers & Orchestration -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes"/>
+  <!-- CI/CD -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/github/github-original.svg" height="40" alt="github"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/githubactions/githubactions-original.svg" height="40" alt="github actions"/>
 
-  <!-- Cloud & Infrastructure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.
+  <!-- Containers -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/docker/docker-original.svg" height="40" alt="docker"/>
 
+  <!-- Cloud & IaC -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/terraform/terraform-original.svg" height="40" alt="terraform"/>
+
+  <!-- Networking / Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nginx/nginx-original.svg" height="40" alt="nginx"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/apache/apache-original.svg" height="40" alt="apache"/>
+
+  <!-- Scripting / Editor -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/vim/vim-original.svg" height="40" alt="vim"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&theme=github_dark&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LeN0UR&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeN0UR&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+> These cards fetch live data from GitHub and update automatically.
+
+---
+
+## 📫 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ab-nour/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUREMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
