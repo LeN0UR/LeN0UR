@@ -1,8 +1,7 @@
 <h1 align="center">👋 Welcome! My name is Abdirahman</h1>
 
 <p align="center">
-  <!-- OPTIONAL GIF:
-  Host the GIF in your repo and use the RAW link for autoplay:
+  <!-- (Optional) Add a GIF hosted in your repo via RAW URL for autoplay:
   <img src="https://raw.githubusercontent.com/LeN0UR/LeN0UR/main/assets/obiwan-hello-there.gif" width="250" alt="Obi-Wan Kenobi Hello There">
   -->
 </p>
@@ -68,17 +67,24 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
 
 ## 📊 GitHub Stats
 
+<!-- Colors:
+  Titles: Blue = #0B5FFF
+  Text:   Turquoise = #14B8A6
+  Border: Light blue = #93C5FD
+  Background: White = #FFFFFF
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&theme=github_dark&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&langs_count=6&bg_color=ffffff&title_color=0b5fff&text_color=14b8a6&icon_color=0b5fff&border_color=93c5fd&hide_border=false" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=ffffff&title_color=0b5fff&text_color=14b8a6&icon_color=0b5fff&border_color=93c5fd&hide_border=false" height="165" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeN0UR&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=LeN0UR&background=FFFFFF&hide_border=false&border=93C5FD&ring=0B5FFF&fire=0B5FFF&currStreakLabel=0B5FFF&sideNums=14B8A6&sideLabels=0B5FFF&dates=0F766E" height="170" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeN0UR&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeN0UR&bg_color=ffffff&color=0b5fff&line=0b5fff&point=14b8a6&area=true&hide_border=false" alt="GitHub Activity Graph"/>
 </p>
 
 > These cards fetch live data from GitHub and update automatically.
@@ -95,3 +101,4 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
