@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm Abdirahman Nour</h1>
+<h1 align="center">👋 Hello there, my name is Abdirahman</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ce51d07-ab16-495c-a82c-1997fb18b396" width="250" alt="Obi-Wan Kenobi Hello There">
