@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeN0UR&label=Profile%20views&color=0e75b6&style=flat" alt="LeN0UR" />
+  <img src="https://komarev.com/ghpvc/?username=LeN0UR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -51,11 +51,6 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 
-  <!-- Kubernetes -->
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -71,13 +66,18 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
   </a>
 
+  <!-- Kubernetes (LAST) -->
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+
 </p>
 
 ---
 
 ## 📂 Current Focus
 
-- 🔭 Working on: **[The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)** — documenting my journey and building projects  
+- 🔭 **Currently working on:** [The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)  
 - 🌱 Upskilling in **AWS ECS**, **Terraform**, and **CI/CD pipeline automation**  
 - 🧠 Check out all my projects [here](https://github.com/LeN0UR?tab=repositories)  
 
@@ -87,12 +87,12 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=len0ur&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=false" 
     height="165" 
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&langs_count=8&theme=github_dark&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=len0ur&layout=compact&langs_count=8&theme=github_dark&hide_border=false" 
     height="165" 
     alt="Top Languages"
   />
@@ -100,13 +100,11 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=LeN0UR&theme=github-dark&hide_border=false" 
+    src="https://streak-stats.demolab.com?user=len0ur&theme=github-dark&hide_border=false" 
     height="170" 
     alt="GitHub Streak"
   />
 </p>
-
-> These cards fetch live data from GitHub and update automatically.
 
 ---
 
