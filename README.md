@@ -13,7 +13,6 @@
 ## 👨‍💻 About Me
 
 I’m a DevOps Engineer focused on automation, cloud infrastructure, and building scalable, reliable systems.  
-
 I enjoy solving complex problems, improving efficiency, and working with tools that bridge development and operations.
 
 My repositories showcase the projects I’m building as I deepen my expertise across Linux, networking, CI/CD, containers, and infrastructure as code.  
