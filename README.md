@@ -85,26 +85,29 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
 
 ## 📊 GitHub Stats
 
+<!--
+  Dark theme + boxed cards
+  Background: 0D1117 (GitHub dark)
+  Title:      58A6FF (GitHub blue)
+  Text:       C9D1D9 (light gray)
+  Icons:      58A6FF
+  Border:     30363D (subtle border)
+-->
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=len0ur&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=false" 
-    height="165" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=len0ur&layout=compact&langs_count=8&theme=github_dark&hide_border=false" 
-    height="165" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" height="165" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=len0ur&theme=github-dark&hide_border=false" 
-    height="170" 
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=LeN0UR&background=0D1117&hide_border=false&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E" height="170" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeN0UR&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&hide_border=false&custom_title=Contribution%20Activity%20Graph&title_color=58A6FF" alt="GitHub Activity Graph"/>
+</p>
+
+> These cards fetch live data from GitHub and update automatically.
 
 ---
 
