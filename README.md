@@ -2,7 +2,6 @@
 
 <p align="center">
   <!-- OPTIONAL GIF:
-  Host in your repo and use RAW URL for autoplay:
   <img src="https://raw.githubusercontent.com/LeN0UR/LeN0UR/main/assets/obiwan-hello-there.gif" width="250" alt="Obi-Wan Kenobi Hello There">
   -->
 </p>
@@ -28,6 +27,54 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
 
 ---
 
+## 💻 My Tech Stack
+
+<p align="left"> 
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <!-- Networking -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/506700/network.svg" alt="networking" width="40" height="40"/>
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+
+  <!-- Terraform -->
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub Actions (CI/CD) -->
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
+  </a>
+
+</p>
+
+---
+
 ## 📂 Current Focus
 
 - 🔭 Working on: **[The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)** — documenting my journey and building projects  
@@ -36,46 +83,7 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
 
 ---
 
-## 💻 My Tech Stack
-
-<p align="left">
-  <!-- Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/bash/bash-original.svg" height="40" alt="bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linux/linux-original.svg" height="40" alt="linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/git/git-original.svg" height="40" alt="git"/>
-
-  <!-- CI/CD -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/github/github-original.svg" height="40" alt="github"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/githubactions/githubactions-original.svg" height="40" alt="github actions"/>
-
-  <!-- Containers -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/docker/docker-original.svg" height="40" alt="docker"/>
-
-  <!-- Cloud & IaC -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/terraform/terraform-original.svg" height="40" alt="terraform"/>
-
-  <!-- Networking / Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nginx/nginx-original.svg" height="40" alt="nginx"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/apache/apache-original.svg" height="40" alt="apache"/>
-
-  <!-- Scripting / Editor -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/vim/vim-original.svg" height="40" alt="vim"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
-
-<!--
-  Dark theme + boxed cards
-  Background: 0D1117 (GitHub dark)
-  Title:      58A6FF (GitHub blue)
-  Text:       C9D1D9 (light gray)
-  Icons:      58A6FF
-  Border:     30363D (subtle border)
--->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" height="165" alt="Top Languages"/>
@@ -104,3 +112,4 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
