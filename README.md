@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome! My name is Abdirahman</h1>
+<h1 align="center">👋 Hello there! My name is Abdirahman</h1>
 
 <p align="center">
   <!-- OPTIONAL GIF:
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>DevOps Engineer | Linux • Docker • AWS • Terraform • CI/CD • Cloud Automation</b>
+  <b>DevOps Engineer | Linux • Docker • Kubernetes • AWS • Terraform • CI/CD • Cloud Automation</b>
 </p>
 
 <p align="center">
@@ -51,6 +51,11 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -74,23 +79,31 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
 
 - 🔭 Working on: **[The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)** — documenting my journey and building projects  
 - 🌱 Upskilling in **AWS ECS**, **Terraform**, and **CI/CD pipeline automation**  
-- 🧠 Check out all my public repositories [here](https://github.com/LeN0UR?tab=repositories)  
+- 🧠 Check out all my projects [here](https://github.com/LeN0UR?tab=repositories)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" height="165" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" height="165" alt="GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark&hide_border=false" 
+    height="165" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&langs_count=8&theme=github_dark&hide_border=false" 
+    height="165" 
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeN0UR&background=0D1117&hide_border=false&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E" height="170" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeN0UR&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&hide_border=false&custom_title=Contribution%20Activity%20Graph&title_color=58A6FF" alt="GitHub Activity Graph"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=LeN0UR&theme=github-dark&hide_border=false" 
+    height="170" 
+    alt="GitHub Streak"
+  />
 </p>
 
 > These cards fetch live data from GitHub and update automatically.
@@ -107,4 +120,3 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
