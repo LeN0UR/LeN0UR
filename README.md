@@ -46,11 +46,6 @@ Currently, I’m expanding into cloud orchestration with **AWS**, **Docker**, an
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 
-  <!-- Networking -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/506700/network.svg" alt="networking" width="40" height="40"/>
-  </a>
-
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
