@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there! My name is Abdirahman</h1>
+<h1 align="center"> Hello there! My name is Abdirahman</h1>
 
 <p align="center">
   <b>DevOps Engineer | Linux • Docker • Kubernetes • AWS • Terraform • CI/CD • Cloud Automation</b>
