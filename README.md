@@ -10,7 +10,8 @@ Welcome to my GitHub :)
 
 <p><strong>DevOps Engineer showcasing real-world cloud, automation, and infrastructure skills</strong></p>
 
-<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="420"/>
+<img src="https://raw.githubusercontent.com/LeN0UR/LeN0UR/main/assets/obiwan-hello.gif" width="420"/>
+
 
 </div>
 
