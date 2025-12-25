@@ -1,101 +1,73 @@
-<h1 align="center"> Hello there! My name is Abdirahman Nour </h1>
+<div align="center">
 
-<p align="center">
-  <b>DevOps Engineer | Linux • Docker • Kubernetes • AWS • Terraform • CI/CD • Cloud Automation</b>
-</p>
+<h1>
+Hello there!
+<img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/Waving%20Hand.png" width="50"/>
+Welcome to my GitHub :)
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeN0UR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=LeN0UR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
----
+<p><strong>DevOps Engineer showcasing real-world cloud, automation, and infrastructure skills</strong></p>
+
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="420"/>
+
+</div>
+
 
 ## 👨‍💻 About Me
 
-I’m a DevOps Engineer focused on automation, cloud infrastructure, and building scalable, reliable systems.  
-I enjoy solving complex problems, improving efficiency, and working with tools that bridge development and operations.
+DevOps Engineer focused on **automating cloud infrastructure**, **shipping reliable systems**, and **building production-grade AWS & Kubernetes environments**.
 
-My repositories showcase the projects I’m building as I deepen my expertise across Linux, networking, CI/CD, containers, and infrastructure as code.  
+This GitHub is my hands-on lab, showcasing real projects that reflect how DevOps works in practice.
 
-Currently developing cloud solutions using AWS, Docker, Kubernetes, and Terraform with a focus on fully automated environments.
 
----
+## 🧰 My Tech Stack
 
-## 💻 My Tech Stack
+<div align="center">
 
-<p align="left"> 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+</div>
 
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+## 🔭 Current Focus
 
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
+- Building **production-grade AWS & Kubernetes environments**
+- Deepening expertise in **EKS, Terraform modules, GitOps, and CI/CD**
+- Documenting real DevOps workflows through hands-on projects
 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
+👉 **Projects:** https://github.com/LeN0UR?tab=repositories
 
-  <!-- Terraform -->
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
-  </a>
 
-  <!-- GitHub Actions (CI/CD) -->
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
-  </a>
+## 📊 GitHub Stats
 
-  <!-- Kubernetes (last) -->
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=tokyonight" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeN0UR&theme=tokyonight" />
 
-## 📂 Current Focus
+</div>
 
-- 🔭 **Currently working on:** [The_CI_CDiary](https://github.com/LeN0UR/The_CI_CDiary)  
-- 🌱 Upskilling in **AWS ECS**, **Terraform**, and **CI/CD automation**  
-- 🧠 Check out all my projects [here](https://github.com/LeN0UR?tab=repositories)  
 
----
+## 🔗 Let’s Connect
 
-## 📊 GitHub Stats  
+<div align="center">
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeN0UR&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LeN0UR" />
-</p>
+<a href="https://www.linkedin.com/in/ab-nour/">
+  <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/linkedin-480.png" width="60"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&locale=en&theme=tokyonight" alt="LeN0UR" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeN0UR&theme=tokyonight" alt="LeN0UR" /></p>
-
----
-
-## 📫 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ab-nour/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUREMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
