@@ -56,11 +56,12 @@ This GitHub is my hands-on lab, showcasing real projects that reflect how DevOps
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeN0UR&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 
 ## 🔗 Let’s Connect
