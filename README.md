@@ -8,10 +8,9 @@ I'm Abdirahman
 
 <img src="https://komarev.com/ghpvc/?username=LeN0UR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<p><strong>DevOps Engineer showcasing real-world cloud, automation, and infrastructure skills</strong></p>
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud-Infrastructure-blueviolet?style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/LeN0UR/LeN0UR/main/assets/obiwan-hello.gif" width="420"/>
-
 
 </div>
 
@@ -20,7 +19,13 @@ I'm Abdirahman
 
 DevOps Engineer focused on **automating cloud infrastructure**, **shipping reliable systems**, and **building production-grade AWS & Kubernetes environments**.
 
-This GitHub is my hands-on lab, showcasing real projects that reflect how DevOps works in practice.
+This GitHub showcases hands-on projects reflecting real-world DevOps practices.
+
+
+## ⚙️ Featured Projects
+
+☁️ [ECS Memos Deployment](https://github.com/LeN0UR/ECS_memos_deployment)  
+Production-grade containerised Go application deployed on AWS using ECS Fargate, Application Load Balancer and Terraform with secure OIDC-based CI/CD.
 
 
 ## 🧰 My Tech Stack
@@ -42,16 +47,16 @@ This GitHub is my hands-on lab, showcasing real projects that reflect how DevOps
 
 </div>
 
-👉 **Projects:** https://github.com/LeN0UR?tab=repositories
+👉 **All Projects:** https://github.com/LeN0UR?tab=repositories
 
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=LeN0UR&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
