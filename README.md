@@ -3,7 +3,7 @@
 <h1>
 Hello there!
 <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/Waving%20Hand.png" width="50"/>
-Welcome to my GitHub :)
+I'm Abdirahman
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=LeN0UR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
