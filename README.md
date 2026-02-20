@@ -42,13 +42,6 @@ This GitHub is my hands-on lab, showcasing real projects that reflect how DevOps
 
 </div>
 
-
-## 🔭 Current Focus
-
-- Building **production-grade AWS & Kubernetes environments**
-- Deepening expertise in **EKS, Terraform modules, GitOps, and CI/CD**
-- Documenting real DevOps workflows through hands-on projects
-
 👉 **Projects:** https://github.com/LeN0UR?tab=repositories
 
 
