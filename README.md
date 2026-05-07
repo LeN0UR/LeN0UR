@@ -3,7 +3,7 @@
 <h1>
 Hello there!
 <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/Waving%20Hand.png" width="50"/>
-I'm Abdirahman
+My name is Abdirahman
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=LeN0UR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -19,7 +19,7 @@ I'm Abdirahman
 
 DevOps Engineer focused on **automating cloud infrastructure**, **shipping reliable systems**, and **building production-grade AWS & Kubernetes environments**.
 
-This GitHub showcases hands-on projects reflecting real-world DevOps practices.
+This github contains projects focused on cloud infrastructure, automation, Kubernetes, CI/CD, and modern DevOps practices.
 
 
 ## ⚙️ Featured Projects
