@@ -17,7 +17,7 @@ My name is Abdirahman
 
 ## 👨‍💻 About Me
 
-DevOps Engineer focused on **automating cloud infrastructure**, **shipping reliable systems**, and **building production-grade AWS & Kubernetes environments**.
+DevOps/Cloud Engineer based in London, focused on **automating cloud infrastructure**, **shipping reliable systems**, and **building production-grade AWS & Kubernetes environments**.
 
 This github contains projects focused on cloud infrastructure, automation, Kubernetes, CI/CD, and modern DevOps practices.
 
@@ -68,6 +68,10 @@ Production-grade containerised Go application deployed on AWS using ECS Fargate,
 
 <a href="https://www.linkedin.com/in/ab-nour/">
   <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/linkedin-480.png" width="60"/>
+</a>
+
+<a href="mailto:aann20034@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60"/>
 </a>
 
 </div>
