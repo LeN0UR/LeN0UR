@@ -1,10 +1,14 @@
 <div align="center">
 
 <h1>
-Hello there!
+Hi there!
 <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/Waving%20Hand.png" width="50"/>
-My name is Abdirahman
+I'm Abdirahman Nour
 </h1>
+
+<h3>
+DevOps & Cloud Engineer | AWS • Kubernetes • Terraform • CI/CD
+</h3>
 
 <img src="https://komarev.com/ghpvc/?username=LeN0UR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -19,13 +23,16 @@ My name is Abdirahman
 
 DevOps/Cloud Engineer based in London, focused on **automating cloud infrastructure**, **shipping reliable systems**, and **building production-grade AWS & Kubernetes environments**.
 
-This github contains projects focused on cloud infrastructure, automation, Kubernetes, CI/CD, and modern DevOps practices.
+This GitHub contains projects focused on cloud infrastructure, automation, Kubernetes, CI/CD, and modern DevOps practices.
 
 
 ## ⚙️ Featured Projects
 
 ☁️ [ECS Memos Deployment](https://github.com/LeN0UR/ECS_memos_deployment)  
 Production-grade containerised Go application deployed on AWS using ECS Fargate, Application Load Balancer and Terraform with secure OIDC-based CI/CD.
+
+☸️ [EKS GitOps Platform — In Progress](https://github.com/LeN0UR/YOUR_REPO_NAME)  
+Production-focused AWS EKS platform built with Terraform, ArgoCD, Helm and GitHub Actions, featuring GitOps workflows, automated TLS/DNS, observability and Kubernetes-native deployments.
 
 
 ## 🧰 My Tech Stack
@@ -37,6 +44,7 @@ Production-grade containerised Go application deployed on AWS using ECS Fargate,
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
@@ -59,7 +67,6 @@ Production-grade containerised Go application deployed on AWS using ECS Fargate,
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeN0UR&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
-
 
 
 ## 🔗 Let’s Connect
