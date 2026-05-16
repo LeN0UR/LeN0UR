@@ -31,8 +31,8 @@ This GitHub contains projects focused on cloud infrastructure, automation, Kuber
 ☁️ [ECS Memos Deployment](https://github.com/LeN0UR/ECS_memos_deployment)  
 Production-grade containerised Go application deployed on AWS using ECS Fargate, Application Load Balancer and Terraform with secure OIDC-based CI/CD.
 
-☸️ [EKS GitOps Platform](https://github.com/LeN0UR/EKS-SRE-Platform)  
-Production-focused AWS EKS platform built with Terraform, ArgoCD, Helm and GitHub Actions, featuring GitOps workflows, automated TLS/DNS, observability and Kubernetes-native deployments.
+☸️ [EKS SRE Platform](https://github.com/LeN0UR/EKS-SRE-Platform)  
+Production-grade Kubernetes operations platform on Amazon EKS. GitOps delivery via Argo CD, full observability with Prometheus and Grafana, HPA autoscaling, automated TLS and DNS, security scanning with Trivy and Checkov, and end-to-end CI/CD with GitHub Actions..
 
 
 ## 🧰 My Tech Stack
