@@ -7,7 +7,7 @@ I'm Abdirahman Nour
 </h1>
 
 <h3>
-DevOps & Cloud Engineer | AWS • Kubernetes • Terraform • CI/CD
+DevOps Engineer | AWS • Kubernetes • Terraform • CI/CD
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=LeN0UR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
