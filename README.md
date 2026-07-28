@@ -21,7 +21,7 @@ DevOps Engineer | AWS • Kubernetes • Terraform • CI/CD
 
 ## 👨‍💻 About Me
 
-DevOps/Cloud Engineer based in London, focused on **automating cloud infrastructure**, **shipping reliable systems**, and **building production-grade AWS & Kubernetes environments**.
+DevOps Engineer based in London, focused on **automating cloud infrastructure**, **shipping reliable systems**, and **building production-grade AWS & Kubernetes environments**.
 
 This GitHub contains projects focused on cloud infrastructure, automation, Kubernetes, CI/CD, and modern DevOps practices.
 
