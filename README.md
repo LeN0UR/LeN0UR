@@ -26,15 +26,6 @@ DevOps/Cloud Engineer based in London, focused on **automating cloud infrastruct
 This GitHub contains projects focused on cloud infrastructure, automation, Kubernetes, CI/CD, and modern DevOps practices.
 
 
-## ⚙️ Featured Projects
-
-
-☸️ [EKS SRE Platform](https://github.com/LeN0UR/EKS-SRE-Platform)  
-Production-grade Kubernetes operations platform on Amazon EKS. GitOps delivery via Argo CD, full observability with Prometheus and Grafana, HPA autoscaling, automated TLS and DNS, security scanning with Trivy and Checkov, and end-to-end CI/CD with GitHub Actions.
-
-☁️ [ECS Memos Deployment](https://github.com/LeN0UR/ECS_memos_deployment)  
-Production-grade containerised Go application deployed on AWS using ECS Fargate, Application Load Balancer and Terraform with secure OIDC-based CI/CD.
-
 ## 🧰 My Tech Stack
 
 <div align="center">
@@ -54,6 +45,15 @@ Production-grade containerised Go application deployed on AWS using ECS Fargate,
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
+
+## ⚙️ Featured Projects
+
+
+☸️ [EKS SRE Platform](https://github.com/LeN0UR/EKS-SRE-Platform)  
+Production-grade Kubernetes operations platform on Amazon EKS. GitOps delivery via Argo CD, full observability with Prometheus and Grafana, HPA autoscaling, automated TLS and DNS, security scanning with Trivy and Checkov, and end-to-end CI/CD with GitHub Actions.
+
+☁️ [ECS Memos Deployment](https://github.com/LeN0UR/ECS_memos_deployment)  
+Production-grade containerised Go application deployed on AWS using ECS Fargate, Application Load Balancer and Terraform with secure OIDC-based CI/CD.
 
 
 
